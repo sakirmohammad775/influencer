@@ -1,0 +1,44 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    }
+/*header section start*/
+
+/*nav bar start*/
+.nav{
+    display: flex;
+}
+
+.header-title{
+    color: #3A3A3A;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 80px;
+    margin-left: 120px;
+}
+.top-left-bar{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 650px;
+    gap: 34px;
+}
+.top-left-bar a{
+    text-decoration: none;
+    color: #3A3A3A;
+    font-size: 1renm;
+    font-weight: 600;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+.svg-1{
+    width: 26px;
+    height: 26px;
+    padding-right: 24px;
+}
+.svg-2{
+    width: 24px;
+    height: 24px;
+}
+/*nav barv finished*/
